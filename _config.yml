@@ -1,0 +1,14 @@
+
+title: San Joaquin Valley Town Hall
+description: >- # this means to ignore newlines until "baseurl:"
+  San Joaquin Valley Town Hall celebrating 75th year.
+baseurl: "" 
+url: "" 
+twitter_username: jekyllrb
+github_username:  jekyll
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+
